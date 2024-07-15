@@ -125,7 +125,7 @@ The current version of this pioneering course in Latin America is primarily base
 15. Real projects using market platforms
 16. Design, Development, and Deployment of Responsible AI
 
-## Carga horária: 
+## Course Load: 
 +	30 hours (Recorded videos) 
 +	15 hours de assignments/labs
 +	15 hours of individual research and study + final group project
