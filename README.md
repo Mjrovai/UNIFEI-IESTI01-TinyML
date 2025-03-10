@@ -63,15 +63,43 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 27 - Collecting Data - Alternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/oYRl-UhFZ-U)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/8-kkzuLYl4Q)
 + Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[Video]](https://youtu.be/mC4WiH_AaMg)
-+ Class 30 - Group Presentations (2024)
-  + Monitoramento Acústico de Fluxo Hídrico [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Monit_Acustico.pdf) [[Video]](https://youtu.be/qnwZsdTilxs)
-  + Detecção de Quedas de pessoas [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Deteccao_Quedas.pdf) [[Video]](https://www.youtube.com/watch?v=7BsHzaYMCd8)
-  + Contagem de Capacitores [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/monitor_capacitor.pdf) [[Video]](https://youtu.be/Wa7THRv9V4c)
-  + Identificador de estilos musicais[[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/identificador_estilos_musicais.pdf) [[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
-  + Teste de qualidade de Produtos [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Teste_qualidade.pdf) [[Video]](https://youtu.be/5t2TAhu-h50)
-  + Afinador de violão [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/afinador_violao.pdf) [[Video]](https://youtu.be/X9sGIUbH6mk)
-  + Detecção de doenças em folhas de tomate [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Detec_doencas_folhas_tomate.pdf)
-    
++ Class 30 - Group Presentations
+  + 2024.1
+    + Monitoramento Acústico de Fluxo Hídrico [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Monit_Acustico.pdf) [[Video]](https://youtu.be/qnwZsdTilxs)
+    + Detecção de Quedas de pessoas [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Deteccao_Quedas.pdf) [[Video]](https://www.youtube.com/watch?v=7BsHzaYMCd8)
+    + Contagem de Capacitores [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/monitor_capacitor.pdf) [[Video]](https://youtu.be/Wa7THRv9V4c)
+    + Identificador de estilos musicais[[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/identificador_estilos_musicais.pdf) [[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
+    + Teste de qualidade de Produtos [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Teste_qualidade.pdf) [[Video]](https://youtu.be/5t2TAhu-h50)
+    + Afinador de violão [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/afinador_violao.pdf) [[Video]](https://youtu.be/X9sGIUbH6mk)
+    + Detecção de doenças em folhas de tomate [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Detec_doencas_folhas_tomate.pdf)
+  + 2023.1
+    + COPD [[Report]](00_Curse_Folder/2_Applications_Deploy/2013_Final_Projects/COPD-IESTI01_Projeto_Final.pdf) 
+    + hidrometro [[Report]](00_Curse_Folder/2_Applications_Deploy/2013_Final_Projects/hidrometro-Projeto_Final_IESTI01.pdf) 
+    + Libras [[Report]](00_Curse_Folder/2_Applications_Deploy/2013_Final_Projects/Libras-Trabalho-IESTI01.pdf) 
+    + Ronco[[Report]](00_Curse_Folder/2_Applications_Deploy/2013_Final_Project/Ronco-Proj_final_IESTI01.pdf) 
+  + 2022.1
+     - Classificador de Vogais em Libras [[Doc]](00_Curse_Folder/3_Final_Projects/Libras-Trabalho-IESTI01.pdf) [[Video]](https://youtu.be/P9h7r_xhWc8)
+     - Detecção de doença pulmonar (DPOC) [[Doc]](00_Curse_Folder/3_Final_Projects/COPD-IESTI01_Projeto_Final.pdf) [[Video]](https://youtu.be/gjVJFaGKl6E)
+     - Detecção de algarismos em hidrômetros [[Doc]](00_Curse_Folder/3_Final_Projects/hidrometro-Projeto_Final_IESTI01.pdf) [[Video]](https://youtu.be/rV6lmdJqsvc)
+     - Detecção de Roncos [[Doc]](00_Curse_Folder/3_Final_Projects/Ronco-Proj_final_IESTI01.pdf) [[Video]](https://youtu.be/DbujrQEzVy8)
+     - SCancer (No TinyML) [[Video]](https://youtu.be/QCH9iYNjDJc)
+  + 2021.2
+    + Groups 1, 2, 3, 4, 5 [[Video]](https://youtu.be/IkUbbWcL5Z4)
+      + 1-Keyboard
+      + 2-Sobriety
+      + 3-Bearing
+      + 4-Ex-Maquina
+      + 5-Helmet
+    + Groups 6, 7 [[Video]](https://youtu.be/-T9o38oo4Bk)
+      + 6-Emotions
+      + 7-Eletricity 
+    + [[Final Reports]](/00_Curse_Folder/Group%20Project/final_reports/)
+  + 2021.1
+    +  Seismic Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/RelatorioTinyML_TrabalhoFinal_1-Abalos.pdf) [[Video]](https://youtu.be/vswoWrOpC1s)
+    +  Fire Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/Projeto_final_Fire_detection/trabalho_final_Fire_Detection.pdf) [[Video]](https://youtu.be/70ySBIPzvJk)
+    +  Covid Detection (cough) [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/Project__Covid_19_Detection_by_Cough.pdf) [[Video]](https://youtu.be/7Lca8lfdKAI)
+    + Mask Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/relatorio_final_deteccao_de_mascara.pdf) [[Video]](https://youtu.be/jeRetSaqm1w)
+    + Personal Trainer [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/IESTI01_ProjetoFinal_PersonalTrainer.pdf) [[Video]](https://youtu.be/RxlHRyaRfBc) 
 <hr>
 
 ## Relevance of TinyML Learning
