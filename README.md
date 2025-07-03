@@ -66,6 +66,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 30 - Group Presentations
   + 2025.1
     + Detector de choros de bebes [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Choro/Trabalho_Final_TinyML.pdf) [[Video]]()
+    + Sistema de Reconhecimento Facial para Autenticação [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Facial/Final Report.pdf) [[Video]]()
   
   + 2024.1
     + Monitoramento Acústico de Fluxo Hídrico [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Monit_Acustico.pdf) [[Video]](https://youtu.be/qnwZsdTilxs)
