@@ -64,6 +64,8 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/8-kkzuLYl4Q)
 + Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[Video]](https://youtu.be/mC4WiH_AaMg)
 + Class 30 - Group Presentations
+
+### Group Presentations
   + 2025.1
     + Detector de choros de bebes [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Choro/Trabalho_Final_TinyML.pdf) [[Video]](https://youtu.be/Ov7MMjnfcW8)
     + Sistema de Reconhecimento Facial para Autenticação [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Facial/Final_Report.pdf) [[Video]](https://youtu.be/B7GltTHmBLw)
