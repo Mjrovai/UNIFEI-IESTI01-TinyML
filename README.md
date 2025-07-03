@@ -72,7 +72,16 @@ For the previous versions of IESTI01 courses, please visit:
     + Classificação de vibração no liquidificador [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Liquidificador/ProjFinal-TinyML.pdf) [[Video]]()
     + Detecção de Cancer de Pele [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Manchas/Relatorio_projeto_final.pdf) [[Video]]()
     + Visual Voice Activity Detection (VVAD) [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Olhos/Relatório_Final_IESTI01.pdf) [[Video]]()
-    + 
+    + Identificação de Pássaros por Meio do Canto [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros/Relatorio_Projeto_Final.pdf) [[Video]]()
+    + CLASSIFICAÇÃO DE ESPÉCIES DE PÁSSAROS ATRAVÉS DE SONS [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros2/Relatório_final_IESTI01.pdf) [[Video]]()
+    + SISTEMA DE CLASSIFICAÇÃO DE CANTOS DE PÁSSAROS [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros3/tinyml-final-report.pdf) [[Video]]()
+    + RECONHECIMENTO DE PLACAS DE TRÂNSITO [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Placas/Projeto_Final.pdf) [[Video]]()
+    + Detecção de Materiais Recicláveis [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Reciclagem/Detecção_Materiais_Recicláveis.pdf) [[Video]]()
+    + FrogSoundGuard – Identificação de sons de sapos [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Sapos/FrogSoundGuard.pdf) [[Video]]()
+    + Detecção de Sirenes de Emergência no Trânsito [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Sirenes/Detecção_Sirenes.pdf) [[Video]]()
+    + Classificação de sons ambientes [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Sons/Projeto_Final_Rafael_Belchior_Ferreira.pdf) [[Video]]()
+    + Monitoramento Inteligente de Ventiladores [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Ventilador/ProjetoFinal.pdf) [[Video]]()
+    + Reconhecimento de Vogais [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Vogais/relatorio_IESTI01.pdf) [[Video]]()
   
   + 2024.1
     + Monitoramento Acústico de Fluxo Hídrico [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Monit_Acustico.pdf) [[Video]](https://youtu.be/qnwZsdTilxs)
