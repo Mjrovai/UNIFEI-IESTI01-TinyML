@@ -68,6 +68,9 @@ For the previous versions of IESTI01 courses, please visit:
     + Detector de choros de bebes [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Choro/Trabalho_Final_TinyML.pdf) [[Video]]()
     + Sistema de Reconhecimento Facial para Autenticação [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Facial/Final_Report.pdf) [[Video]]()
     + Classificação de Frutas  [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Frutas/Fruit_Classification.pdf) [[Video]]()
+    + Detecção Comportamental de Gado Leiteiro [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Gado/TinyMLVaca.pdf) [[Video]]()
+    + Classificação de vibração no liquidificador [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Liquidificador/ProjFinal-TinyML.pdf) [[Video]]()
+    + Detecção de Cancer de Pele [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Manchas/Relatorio_projeto_final.pdf) [[Video]]()
     + 
   
   + 2024.1
