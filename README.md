@@ -77,7 +77,7 @@ For the previous versions of IESTI01 courses, please visit:
     + Identificação de Pássaros por Meio do Canto [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros/Relatorio_Projeto_Final.pdf) [[Video]](https://youtu.be/ZaAuV36bF5s)
     + CLASSIFICAÇÃO DE ESPÉCIES DE PÁSSAROS ATRAVÉS DE SONS [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros2/Relatorio_final_IESTI01.pdf) [[Video]](https://youtu.be/F-mhGeoWfkA)
     + SISTEMA DE CLASSIFICAÇÃO DE CANTOS DE PÁSSAROS [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Passaros3/tinyml-final-report.pdf) [[Video]](https://youtu.be/nIBJ5Wscej8)
-    + RECONHECIMENTO DE PLACAS DE TRÂNSITO [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Placas/Projeto_Final.pdf) [[Video]](https://youtu.be/3JIaNws0-ys))
+    + RECONHECIMENTO DE PLACAS DE TRÂNSITO [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Placas/Projeto_Final.pdf) [[Video]](https://youtu.be/3JIaNws0-ys)
     + Detecção de Materiais Recicláveis [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Reciclagem/Detec_Materiais_Recicláveis.pdf) [[Video]](https://youtu.be/xSvNDBeEcTA)
     + FrogSoundGuard – Identificação de sons de sapos [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Sapos/FrogSoundGuard.pdf) [[Video]](https://www.youtube.com/watch?v=8DZ4IFw-Abk)
     + Detecção de Sirenes de Emergência no Trânsito [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2025/Sirenes/Detec_Sirenes.pdf)
