@@ -23,7 +23,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Pre-course:  : [[Jupyter Notebook, CoLab and Python Review]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1/tree/main/00_Curso_Folder/1_Fundamentals/Class_4)
 
 ### Parte 1: Fundamentals 
-+ Class 1 - About the Course and Syllabus [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_Class_1.pdf) [[Video]](https://youtu.be/mbGH82YMc0w))
++ Class 1 - About the Course and Syllabus [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_Class_1.pdf) [[Video]](https://youtu.be/mbGH82YMc0w)
 + Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_02/docs/) [[Video]](https://youtu.be/ozeL9a8xNXk)
 + Class 3 - TinyML Challenges - Embedded Systems [[Slides]](00_Curse_Folder/1_Fundamentals/Class_03/IESTI01_TinyML_class_3.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_03/docs/) [[Video]](https://youtu.be/jumIhJMitSM)
 + Class 4 - TinyML Challenges - Machine Learning [[Slides]](00_Curse_Folder/1_Fundamentals/Class_04/IESTI01_TinyML_class_4.pdf) [[Video]](https://youtu.be/N1OWXpL4jMM)
