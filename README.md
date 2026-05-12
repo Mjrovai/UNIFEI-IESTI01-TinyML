@@ -47,7 +47,7 @@ For the previous versions of IESTI01 courses, please visit:
   + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/EdgeML-Demo/IESTI01_TinyML_class_16a.pdf) [[Video]](https://youtu.be/lZ1W7MnJFD4)
   + Class 16b - TFL-Micro Hello World [[Video]](https://youtu.be/hjOKVo1mbaY)
 + Class 17 - Arduino TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs) [[Video]](https://youtu.be/H6ABUMTWqlo)
-  + Class 17c - Seeed XIAOML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17c.pdf)
+  + Class 17c - Seeed XIAOML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17c.pdf) [[Video]](https://youtu.be/SLFUvt-Eu0o)
 + Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/GPZ9FeGfizE)
 + Class 19 - Motion Classification - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_19/IESTI01_TinyML_class_19.pdf) [[Video]](https://youtu.be/sf92FFbrbrQ)
 + Class 20 -  Motion Classification using MCU (Nano 33) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]](https://youtu.be/qnpfl7Eaz_k)
